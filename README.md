@@ -1,9 +1,10 @@
+<!---
 - 👋 Hello there, I’m Luke!
 - 👀 I’m interested in developing as a Full Stack web developer
 - 🌱 I’m currently developing my Front-End skills (Rails and JavaScript) 
 - 💻 So far, my biggest project is working as apart of the team that developed <a href="http://www.nbadigitalalbum.click/" target="_blank"> NBA Digital Album </a>
 - 📫 Reach me on <a href="https://www.linkedin.com/in/luke-bullen/" target="_blank">LinkedIn</a>
-
+-->
 
 
 <!---
